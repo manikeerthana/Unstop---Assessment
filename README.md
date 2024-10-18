@@ -1,5 +1,5 @@
 
-# Unstop's Full Stack Developer Challenge
+# Unstop's Challenge
 
 
 ## Problem Statement
@@ -19,7 +19,7 @@
 
 ## How to run application
 
-- Download the project zip from the github [https://github.com/KunalPandharkar/Unstop-Challenge]
+- Download the project zip from this github .
 - Install all project dependencies by running command
 
 ```bash
@@ -65,12 +65,4 @@
 
 
 
-## 🚀 About Me
-Full stack web developer having an experience of developing and deploying successful projects as per 
-client requirements and specifications, looking for a challenging role in reputable organization to utilize 
-my skills
-
-
-## 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/kunal-pandharkar-513994188)
 
